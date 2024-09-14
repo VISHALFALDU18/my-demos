@@ -1,2 +1,2 @@
 # my-demos
-this is my demos for learning purpose.
+This Is My Demos For Learning Purpose.
